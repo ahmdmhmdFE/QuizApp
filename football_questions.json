@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Where Lionel Messi Are Playing Now...?",
+        "answer_1": "Man city",
+        "answer_2": "Paris",
+        "answer_3": "Barcelona",
+        "answer_4": "Inter Miamy",
+        "right_answer": "Inter Miamy"
+    },
+
+    {
+        "title": "Where Cristiano Ronaldo Are Playing Now...?",
+        "answer_1": "Real Madrid",
+        "answer_2": "Man United",
+        "answer_3": "El-nasser",
+        "answer_4": "Sporting",
+        "right_answer": "El-nasser"
+    },
+
+    {
+        "title": "Where Neymar Are Playing Now...?",
+        "answer_1": "Barcelona",
+        "answer_2": "Santos",
+        "answer_3": "PSG",
+        "answer_4": "Chealse",
+        "right_answer": "PSG"
+    },
+    
+    {
+        "title": "Where Erling Haaland Are Playing Now...?",
+        "answer_1": "Borusia Dortumond",
+        "answer_2": "Man City",
+        "answer_3": "Real Madrid",
+        "answer_4": "Barcelona",
+        "right_answer": "Man City"
+    }, 
+
+    {
+        "title": "Where Pedri Are Playing Now...?",
+        "answer_1": "Liverpool",
+        "answer_2": "Arsenal",
+        "answer_3": "Real Madrid",
+        "answer_4": "Barcelona",
+        "right_answer": "Barcelona"
+    },
+
+    {
+        "title": "Where Marcous Rashford Are Playing Now...?",
+        "answer_1": "Liverpool",
+        "answer_2": "Arsenal",
+        "answer_3": "Man United",
+        "answer_4": "Barcelona",
+        "right_answer": "Man United"
+    },
+
+    {
+        "title": "Where Bokayo Saka Are Playing Now...?",
+        "answer_1": "Liverpool",
+        "answer_2": "Arsenal",
+        "answer_3": "Man United",
+        "answer_4": "Barcelona",
+        "right_answer": "Arsenal"
+    },
+
+    {
+        "title": "Where Kavin De Bruyne Are Playing Now...?",
+        "answer_1": "Liverpool",
+        "answer_2": "Arsenal",
+        "answer_3": "Man United",
+        "answer_4": "Man City",
+        "right_answer": "Man City"
+    },
+
+    {
+        "title": "Where Mo. Salah Are Playing Now...?",
+        "answer_1": "Man city",
+        "answer_2": "Arsenal",
+        "answer_3": "Man United",
+        "answer_4": "Liverpool",
+        "right_answer": "Liverpool"
+    },
+
+    {
+        "title": "Where Enciso Are Playing Now...?",
+        "answer_1": "Man city",
+        "answer_2": "Arsenal",
+        "answer_3": "Brighton",
+        "answer_4": "Liverpool",
+        "right_answer": "Brighton"
+    }
+]
